@@ -10,7 +10,7 @@
         <img aling="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div><br>
 
-conhecendo o mundo da programação e me apaixonanod cada vez mais
+Conhecendo o mundo da programação e me apaixonando cada vez mais.
 
 ## E-mail<br>
 Leandro_tavares.18@hotmail.com
